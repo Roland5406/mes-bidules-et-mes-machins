@@ -8,3 +8,8 @@ in_menu: true
 **Appareils photo**, **ordinateurs**, **téléphones**, **agendas personnels**…, j’en ai accumulé, des bidules et des machins, depuis soixante-douze ans. Est-ce parce que, tout gosse, mes peluches les plus précieuses avaient été « jetées », lors d’un déménagement ?
 
 Bon, je vais essayer de mettre de l’ordre dans tout ça. 
+
+
+## Collectionnite aiguë 
+
+Je suis tenté de faire du ménage, beaucoup de ménage dans mes trucs et mes bricoles. 

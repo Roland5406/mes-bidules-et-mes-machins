@@ -5,5 +5,5 @@ in_menu: true
 ---
 « Mes bidules et mes machins » se résume à une personne : ma pomme.
 
-Pour me contacter : [roland.gruss@ecomail.fR](mailto:roland.gruss@ecomail.fr)
+Pour me contacter : [roland.gruss@ecomail](mailto:roland.gruss@ecomail.fr)
 ` 

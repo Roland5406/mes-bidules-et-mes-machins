@@ -1,8 +1,10 @@
 ---
-title: Accueil
+title: "Accueil"
 order: 0
+in_menu: true
 ---
+# Mes bidules et mes machins
 
-# L'Échappée Belle
+**Appareils photo**, **ordinateurs**, **téléphones**, **agendas personnels**…, j’en ai accumulé, des bidules et des machins, depuis soixante-douze ans. Est-ce parce que, tout gosse, mes peluches les plus précieuses avaient été « jetées », lors d’un déménagement ?
 
-L'Échappée Belle est **une association** qui a pour objet de soutenir et promouvoir des activités et des personnes qui travaillent autour de **valeurs de consentement, de bien commun et de prendre soin des personnes et de l’environnement**.
+Bon, je vais essayer de mettre de l’ordre dans tout ça. 

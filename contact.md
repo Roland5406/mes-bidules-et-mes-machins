@@ -1,9 +1,9 @@
 ---
-title: Contact
+title: "Contact"
 order: 1
+in_menu: true
 ---
+Mes bidules et mes machins se résume à une personne : ma pomme.
 
-L'Échappée Belle est actuellement composée de 6 membres.
-
-Pour nous contacter : [coucou@lechappeebelle.team](mailto:coucou@lechappeebelle.team)
-`
+Pour me contacter : [roland.gruss@ecomail.fR](mailto:roland.gruss@ecomail.fr)
+` 

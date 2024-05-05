@@ -12,7 +12,7 @@ Est-ce parce que, tout gosse, mes peluches et mes jouets les plus précieux avai
 Quoi qu'il en soit, je vais tenter de mettre de l’ordre dans tout ça. 
 
 
-## Dé-collectionnite !
+## Dé-collectionnons !
 
 Je suis décidé à faire du ménage, beaucoup de ménage dans mes trucs et mes bricoles. Par quoi vais-je commencer ?
 

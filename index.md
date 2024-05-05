@@ -28,7 +28,7 @@ Je suis décidé à faire du ménage, beaucoup de ménage dans mes trucs et mes 
 - Donner vêtements, livres et objets sans valeur dans les containers ou espaces communautaires bouquins
 - Contacter des associations locales, par exemple, de rétro-computing pour mes vieux ordis "Safépu".
 
-### Redéfinir qu'est-ce qui va où
+### Redéfinir quel objet va où
 -  Matériel photo
 - Informatique
 - etc. 

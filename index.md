@@ -31,4 +31,6 @@ Je suis décidé à faire du ménage, beaucoup de ménage dans mes trucs et mes 
 ### Redéfinir quels objets vont où
 - Matériel photo
 - Informatique
+- Livres
+- Vêtements 
 - etc. 

@@ -20,15 +20,15 @@ Je suis décidé à faire du ménage, beaucoup de ménage dans mes trucs et mes 
 - Dégager une pièce ou un local
 - Jeter ce qui ne sert à rien
 
-### Utiliser le local comme "transit"
-- Y mettre tout de suite ce dont je vais me débarrasser en attendant que ce soit parti
-- Y mettre aussi les objets sans valeur que je souhaite tout de même conserver. 
+### Utiliser la pièce ou le local comme "transit"
+- Y poser tout de suite ce dont je me débarrasse en attendant que ce soit parti
+- Y mettre les objets sans valeur que je souhaite tout de même conserver. 
 
 ### Choisir ce que je garde
 - Donner vêtements, livres et objets sans valeur dans les containers ou espaces communautaires bouquins
 - Contacter des associations locales, par exemple, de rétro-computing pour mes vieux ordis "Safépu".
 
-### Redéfinir quel objet va où
--  Matériel photo
+### Redéfinir quels objets vont où
+- Matériel photo
 - Informatique
 - etc. 

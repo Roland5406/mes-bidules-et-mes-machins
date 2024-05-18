@@ -1,6 +1,6 @@
 ---
 title: "Contact"
-order: 1
+order: 2
 in_menu: true
 ---
 Le site « Mes bidules et mes machins » se résume à une personne : ma pomme !
